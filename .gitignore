@@ -1,0 +1,17 @@
+# Python / Backend
+backend/__pycache__/
+backend/.env
+backend/venv/
+backend/env/
+*.pyc
+
+# Heavy Files / Datasets
+# (User explicitly requested to upload these)
+# dataset/
+# *.pth
+# *.pt
+
+# Node / Frontend
+frontend/node_modules/
+frontend/build/
+.DS_Store
