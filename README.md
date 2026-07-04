@@ -79,3 +79,20 @@ npm start
     *   **Custom CNN**: Built with PyTorch, trained on 27,000 EuroSAT images (87% accuracy on 64x64 patches).
     *   **Gemini 2.5 Vision**: Google's multimodal Large Language Model for advanced contextual feature extraction.
 *   **Architecture**: "Smart Router" heuristic algorithm that detects image complexity based on color variance and resolution to determine which AI model to invoke.
+## 📸 Application Preview
+
+### 🏠 Landing Page
+The homepage featuring the interactive 3D globe and AI-powered satellite image analyzer.
+* <img width="1918" height="965" alt="Screenshot 2026-07-04 144800" src="https://github.com/user-attachments/assets/6ace24d6-112d-485a-a389-a7405eb23641" />
+### 📤 Image Upload
+Users can upload satellite images for analysis through a clean and responsive interface.
+
+<img width="1918" height="902" alt="Screenshot 2026-07-04 144813" src="https://github.com/user-attachments/assets/8a3cf667-3565-4412-b6bc-28fb4895b04d" />
+
+### 📊 Analysis Results
+Displays the predicted land cover class with confidence scores and AI-generated terrain insights.
+
+
+<img width="1917" height="911" alt="Screenshot 2026-07-04 144843" src="https://github.com/user-attachments/assets/e48d6b51-fde4-4b36-a06e-03caf802f1ac" />
+
+
